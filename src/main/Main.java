@@ -12,6 +12,12 @@ public class Main {
     
     public static void main(String[] args){
         System.out.println("Hello world");
+        System.out.println("MOdificado pa");
+        System.out.println("EY VALE TIENES QUE TERMINAR ESTO, ESTUDIA OMBE");
+        
+        System.out.println("MAN ESTAMOS ATRSADOS BRO");
+
+        System.out.println("Hay que resolver; we are the best of our bloodline");
     }
     
 }
